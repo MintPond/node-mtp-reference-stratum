@@ -1,0 +1,29 @@
+{
+    "name": "mtp-reference-stratum",
+    "version": "1.0.0",
+    "description": "Reference stratum for Zcoin MTP POW algorithm.",
+    "keywords": ["zcoin", "mtp", "stratum", "mining", "pool", "server"],
+    "homepage": "https://github.com/MintPond/node-mtp-reference-stratum",
+    "bugs": {
+        "url": "https://github.com/MintPond/node-mtp-reference-stratum/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MintPond/node-mtp-reference-stratum.git"
+    },
+    "license": "GPL-2.0",
+    "contributors": [
+        "JCThePants"
+    ],
+    "main": "index.js",
+    "dependencies": {
+        "async": "~1.5.2",
+        "bignum": "0.11.0",
+        "base58-native": "0.1.4",
+        "bos": "git://github.com/MintPond/bos.git",
+        "hasher-mtp": "git://github.com/MintPond/node-hasher-mtp.git"
+    },
+    "engines": {
+        "node": ">=8.12.0"
+    }
+}
