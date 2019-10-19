@@ -11,7 +11,7 @@ const pool = new StratumPool({
         },
         port: {
             number: 3000,
-            diff: 1
+            diff: 2048
         }
     },
     authorizeFn: authorizeFn
