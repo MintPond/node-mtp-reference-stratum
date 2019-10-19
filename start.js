@@ -12,7 +12,8 @@ const pool = new StratumPool({
         port: {
             number: 3000,
             diff: 2048
-        }
+        },
+        coinbaseSignature: '/MintPond MTP Ref/'
     },
     authorizeFn: authorizeFn
 });
