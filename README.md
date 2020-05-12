@@ -1,6 +1,8 @@
 node-mtp-reference-stratum
 ==========================
 
+__This project is no longer active or maintained. A new project has superceded it: [ref-stratum-zcoin](https://github.com/MintPond/ref-stratum-zcoin)__
+
 This is a reference [MTP](https://zcoin.io/what-is-mtp-merkle-tree-proof-and-why-it-is-important-to-zcoin/)
  Stratum pool to aid in programmer development
 of Zcoin MTP (Merkle Tree Proof) miners and pools that use the
